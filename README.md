@@ -1,7 +1,7 @@
 # Hey, I'm Elliott 👋
 
 CS student at Western Governors University, graduating in December 2026 (3.8 GPA).
-I'm focused on software engineering and actively looking for internships and part-time opportunities.
+I'm focused on software engineering and actively looking for internships or Junior Software Engineering opportunities.
 
 ---
 
@@ -10,7 +10,7 @@ I'm focused on software engineering and actively looking for internships and par
 **Languages:** Python · Java · JavaScript  
 **Frontend:** React · Vite  
 **Databases:** SQL · experience with inventory/data management systems  
-**Tools:** Git · GitHub · Linux (Ubuntu) · VS Code
+**Tools:** Git · GitHub · Linux (Ubuntu) · VS Code · Docker 
 
 ---
 
