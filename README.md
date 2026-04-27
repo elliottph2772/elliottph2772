@@ -36,5 +36,5 @@ Most of my coursework lives in private repositories — if you're a recruiter or
 ## 📬 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/elliotthudson)
-- 📧 elliottph2772@gmail.com
+- 📧 mailto:elliottph2772@gmail.com
 - 🐙 You're already here!
